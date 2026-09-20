@@ -1,2 +1,14 @@
-# mi-primera-pagina-web
-nose
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <title>INDEX</title>
+</head>
+<body>
+    
+li><p align="left"><a href="Ejercico 1.html">nose uwu</a></p>
+
+
+</body>
+</html>
